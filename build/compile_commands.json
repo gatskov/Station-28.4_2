@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/VSCode/exemple4/Station/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Station.dir/includes_CXX.rsp -g -o CMakeFiles\\Station.dir\\src\\main.cpp.obj -c D:\\VSCode\\exemple4\\Station\\src\\main.cpp",
+  "file": "D:/VSCode/exemple4/Station/src/main.cpp",
+  "output": "CMakeFiles/Station.dir/src/main.cpp.obj"
+},
+{
+  "directory": "D:/VSCode/exemple4/Station/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Station.dir/includes_CXX.rsp -g -o CMakeFiles\\Station.dir\\src\\stat.cpp.obj -c D:\\VSCode\\exemple4\\Station\\src\\stat.cpp",
+  "file": "D:/VSCode/exemple4/Station/src/stat.cpp",
+  "output": "CMakeFiles/Station.dir/src/stat.cpp.obj"
+}
+]
